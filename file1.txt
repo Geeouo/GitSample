@@ -1,3 +1,7 @@
 file1 1 line by Gee
 2 line by Gee
+<<<<<<< HEAD
 written by jilegeji
+=======
+3 line by Gee
+>>>>>>> ba55a0d47fdbb5e921aca7855123488e685af214
