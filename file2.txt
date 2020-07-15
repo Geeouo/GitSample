@@ -1,2 +1,3 @@
 file2 1 line by Gee
 file2 2 line by jilegeji to test pull request
+file2 3 line by jilegeji for Gee to test
